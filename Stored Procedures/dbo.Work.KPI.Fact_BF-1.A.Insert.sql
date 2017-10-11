@@ -11,6 +11,7 @@ GO
 
 
 
+
 -- ===========================================================================
 -- Author:		Gagan Kapoor
 -- Create date: 07/02/2017
@@ -26,6 +27,7 @@ GO
 --		26-06-2017	-- GK: filer the fictitious results nas the category to include only MAIN clients
 --		28/7/2017	-- JDJ: added documentation tokens
 --		11/10/2017	-- GK: testing the source control of redgate with git
+--		11/10/2017	-- GK: testing 2 the source control of redgate with git
 
 -- Calling Arguments:
 --		JobID			Tells the SP who called it, which will then allow it to look up the run params 
@@ -191,6 +193,7 @@ VALUES (
 END CATCH;
 
 END 
+
 
 
 
