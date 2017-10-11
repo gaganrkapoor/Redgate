@@ -13,6 +13,7 @@ GO
 
 
 
+
 -- ===========================================================================
 -- Author:		Gagan Kapoor
 -- Create date: 07/02/2017
@@ -30,6 +31,8 @@ GO
 --		11/10/2017	-- GK: testing the source control of redgate with git
 --		11/10/2017	-- GK: testing 2 the source control of redgate with git
 --		11/10/2017	-- GK: testing 3 the source control of redgate with git
+--		11/10/2017	-- GK: testing 4 the source control of redgate with git
+
 
 
 -- Calling Arguments:
@@ -196,6 +199,7 @@ VALUES (
 END CATCH;
 
 END 
+
 
 
 
